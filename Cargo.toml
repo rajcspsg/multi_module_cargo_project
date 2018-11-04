@@ -1,11 +1,6 @@
-[package]
-name = "multi_module_cargo_project"
-version = "0.1.0"
-authors = ["rajkumar"]
+
 
 [workspace]
 members=["common", "server"]
 
 
-
-[dependencies]
